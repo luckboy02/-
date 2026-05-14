@@ -1,0 +1,25 @@
+﻿category,payment_method,orders,avg_gmv
+Books,Alipay,1696,165.45
+Books,Card,2268,167.53
+Books,WeChat Pay,1017,171.09
+Clothing,Alipay,10771,3274.83
+Clothing,Card,13782,3309.44
+Clothing,WeChat Pay,6218,3342.87
+Cosmetics,Alipay,5336,1375.47
+Cosmetics,Card,6674,1339.82
+Cosmetics,WeChat Pay,3087,1344.63
+Food & Beverage,Alipay,5635,281.42
+Food & Beverage,Card,7054,286.51
+Food & Beverage,WeChat Pay,3176,277.16
+Shoes,Alipay,3553,1894.65
+Shoes,Card,4474,1901.97
+Shoes,WeChat Pay,2007,1880.53
+Souvenir,Alipay,1770,129.44
+Souvenir,Card,2211,124.14
+Souvenir,WeChat Pay,1018,129.89
+Technology,Alipay,2622,8882.32
+Technology,Card,3442,8712.95
+Technology,WeChat Pay,1559,8513.37
+Toys,Alipay,3548,395.57
+Toys,Card,4542,398.64
+Toys,WeChat Pay,1997,383.74

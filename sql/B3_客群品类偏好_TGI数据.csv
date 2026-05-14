@@ -1,0 +1,81 @@
+﻿age_group,gender,category,customer_count
+18-25,Female,Books,474
+18-25,Female,Clothing,2948
+18-25,Female,Cosmetics,1514
+18-25,Female,Food & Beverage,1301
+18-25,Female,Shoes,903
+18-25,Female,Souvenir,499
+18-25,Female,Technology,457
+18-25,Female,Toys,950
+18-25,Male,Books,425
+18-25,Male,Clothing,1820
+18-25,Male,Cosmetics,848
+18-25,Male,Food & Beverage,1347
+18-25,Male,Shoes,616
+18-25,Male,Souvenir,337
+18-25,Male,Technology,647
+18-25,Male,Toys,718
+26-35,Female,Books,608
+26-35,Female,Clothing,3664
+26-35,Female,Cosmetics,1965
+26-35,Female,Food & Beverage,1608
+26-35,Female,Shoes,1082
+26-35,Female,Souvenir,629
+26-35,Female,Technology,569
+26-35,Female,Toys,1306
+26-35,Male,Books,406
+26-35,Male,Clothing,2212
+26-35,Male,Cosmetics,1072
+26-35,Male,Food & Beverage,1712
+26-35,Male,Shoes,797
+26-35,Male,Souvenir,421
+26-35,Male,Technology,880
+26-35,Male,Toys,813
+36-45,Female,Books,540
+36-45,Female,Clothing,3729
+36-45,Female,Cosmetics,1832
+36-45,Female,Food & Beverage,1544
+36-45,Female,Shoes,1270
+36-45,Female,Souvenir,558
+36-45,Female,Technology,755
+36-45,Female,Toys,1156
+36-45,Male,Books,309
+36-45,Male,Clothing,2276
+36-45,Male,Cosmetics,1002
+36-45,Male,Food & Beverage,1471
+36-45,Male,Shoes,813
+36-45,Male,Souvenir,379
+36-45,Male,Technology,1126
+36-45,Male,Toys,722
+46-55,Female,Books,537
+46-55,Female,Clothing,3628
+46-55,Female,Cosmetics,1824
+46-55,Female,Food & Beverage,1415
+46-55,Female,Shoes,1233
+46-55,Female,Souvenir,538
+46-55,Female,Technology,660
+46-55,Female,Toys,1106
+46-55,Male,Books,378
+46-55,Male,Clothing,2238
+46-55,Male,Cosmetics,1046
+46-55,Male,Food & Beverage,1426
+46-55,Male,Shoes,832
+46-55,Male,Souvenir,310
+46-55,Male,Technology,884
+46-55,Male,Toys,723
+56+,Female,Books,747
+56+,Female,Clothing,5106
+56+,Female,Cosmetics,2495
+56+,Female,Food & Beverage,2040
+56+,Female,Shoes,1479
+56+,Female,Souvenir,793
+56+,Female,Technology,803
+56+,Female,Toys,1567
+56+,Male,Books,557
+56+,Male,Clothing,3150
+56+,Male,Cosmetics,1499
+56+,Male,Food & Beverage,2001
+56+,Male,Shoes,1009
+56+,Male,Souvenir,535
+56+,Male,Technology,842
+56+,Male,Toys,1026

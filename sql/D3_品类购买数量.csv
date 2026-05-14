@@ -1,0 +1,41 @@
+﻿category,quantity,orders,avg_gmv
+Books,1,985,15.15
+Books,2,1008,60.6
+Books,3,1000,136.35
+Books,4,959,242.4
+Books,5,1029,378.75
+Clothing,1,6092,300.08
+Clothing,2,6227,1200.32
+Clothing,3,6131,2700.72
+Clothing,4,6155,4801.28
+Clothing,5,6166,7502.0
+Cosmetics,1,2986,340.66
+Cosmetics,2,2974,762.64
+Cosmetics,3,3072,1265.94
+Cosmetics,4,3010,1850.56
+Cosmetics,5,3055,2516.5
+Food & Beverage,1,3243,27.14
+Food & Beverage,2,3102,94.3
+Food & Beverage,3,3203,221.88
+Food & Beverage,4,3094,403.88
+Food & Beverage,5,3223,665.93
+Shoes,1,1944,171.48
+Shoes,2,2045,685.9
+Shoes,3,2010,1543.29
+Shoes,4,2022,2743.64
+Shoes,5,2013,4286.95
+Souvenir,1,1024,11.73
+Souvenir,2,984,46.92
+Souvenir,3,1077,105.57
+Souvenir,4,922,187.68
+Souvenir,5,992,293.25
+Technology,1,1493,794.84
+Technology,2,1530,3160.9
+Technology,3,1574,7027.29
+Technology,4,1485,12889.31
+Technology,5,1541,19680.29
+Toys,1,2000,35.84
+Toys,2,1958,143.36
+Toys,3,2082,322.56
+Toys,4,2076,573.44
+Toys,5,1971,896.0
